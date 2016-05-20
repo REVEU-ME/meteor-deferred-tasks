@@ -1,6 +1,6 @@
 Package.describe({
   name: 'unleet:deferred-tasks',
-  version: '0.1.1',
+  version: '0.1.2',
   // By default, Meteor will default to using README.md for documentation.
   // To avoid submitting documentation, set this field to null.
   documentation: 'README.md',
